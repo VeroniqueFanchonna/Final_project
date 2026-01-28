@@ -1,0 +1,2 @@
+data/raw/ValeursFoncieres-2025-S1.txt filter=lfs diff=lfs merge=lfs -text
+data/raw/DS_BPE_2024_data.csv filter=lfs diff=lfs merge=lfs -text
