@@ -24,3 +24,5 @@ INNER JOIN bpe_commune_db b ON d.insee_code = b.insee_code;
 
 -- Le test ultime
 SELECT * FROM final_market_analysis LIMIT 10;
+
+SELECT * FROM final_market_analysis;
